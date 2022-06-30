@@ -2,7 +2,7 @@ import SimpleInput from "./Components/SimpleInput";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
      <SimpleInput/>
     </div>
   );
